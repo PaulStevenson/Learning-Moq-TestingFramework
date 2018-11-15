@@ -1,0 +1,17 @@
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\CreditCardApplications.Tests.deps.json
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\CreditCardApplications.Tests.runtimeconfig.json
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\CreditCardApplications.Tests.runtimeconfig.dev.json
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\CreditCardApplications.Tests.dll
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\CreditCardApplications.Tests.pdb
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\bin\Debug\netcoreapp2.0\CreditCardApplications.pdb
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\obj\Debug\netcoreapp2.0\CreditCardApplications.Tests.csprojAssemblyReference.cache
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\obj\Debug\netcoreapp2.0\CreditCardApplications.Tests.csproj.CoreCompileInputs.cache
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\obj\Debug\netcoreapp2.0\CreditCardApplications.Tests.AssemblyInfoInputs.cache
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\obj\Debug\netcoreapp2.0\CreditCardApplications.Tests.AssemblyInfo.cs
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\obj\Debug\netcoreapp2.0\CreditCardApplications.Tests.csproj.CopyComplete
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\obj\Debug\netcoreapp2.0\CreditCardApplications.Tests.dll
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications.Tests\obj\Debug\netcoreapp2.0\CreditCardApplications.Tests.pdb

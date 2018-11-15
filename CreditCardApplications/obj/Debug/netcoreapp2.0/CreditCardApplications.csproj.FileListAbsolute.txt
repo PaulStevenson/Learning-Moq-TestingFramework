@@ -1,0 +1,11 @@
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.deps.json
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.runtimeconfig.json
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.runtimeconfig.dev.json
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.pdb
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.csprojAssemblyReference.cache
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.csproj.CoreCompileInputs.cache
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.AssemblyInfoInputs.cache
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.AssemblyInfo.cs
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\PaulS2\Documents\MyProjects\LearnMoqCreditCard\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.pdb
